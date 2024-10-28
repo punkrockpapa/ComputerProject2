@@ -1,5 +1,21 @@
 * {background-color: mistyrose;}
 * {color: rosybrown;}
-header {font-size: xx-large; font-weight: bolder; text-decoration: underline; font-family: 'Courier New', Courier, monospace; }
-h2 {background-color: lightpink; color: mistyrose; text-decoration: none; padding: 15px; font-family: 'Courier New', Courier, monospace;}
+header {
+    font-size: xx-large; 
+    font-weight: bolder; 
+    text-decoration: underline; 
+    font-family: 'Courier New', Courier, monospace;}
+h2 {background-color: lightpink; 
+    color: mistyrose; 
+    text-decoration: none; 
+    padding: 15px; 
+    font-size: x-large; 
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border: 2px solid lightpink;
+    border-radius: 10px;}
 * {font-family: "Rubik Mono One", monospace;}
+a { text-decoration: underline;
+    transition-duration: .3s;}
+a:hover {
+    background-color: lightpink;}
