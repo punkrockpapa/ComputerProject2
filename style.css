@@ -19,3 +19,7 @@ a { text-decoration: underline;
     transition-duration: .3s;}
 a:hover {
     background-color: lightpink;}
+ul li { list-style-type: square;
+    padding: 5px;}
+ol li { list-style-type: decimal; 
+    padding: 5px;}
