@@ -4,7 +4,8 @@ header {
     font-size: xx-large; 
     font-weight: bolder; 
     text-decoration: underline; 
-    font-family: 'Courier New', Courier, monospace;}
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;}
 h2 {background-color: lightpink; 
     color: mistyrose; 
     text-decoration: none; 
@@ -18,9 +19,11 @@ h2 {background-color: lightpink;
 a { text-decoration: underline;
     transition-duration: .3s;}
 a:hover {
-    background-color: lightpink;}
+    background-color: lightpink;
+    color: palevioletred;}
 ul li { list-style-type: square;
     padding: 5px;}
 ol li { list-style-type: decimal; 
     padding: 5px;}
-body {width: 60%}
+body {
+    width: 70%}
